@@ -5,4 +5,28 @@
 |  |
 | ------- |
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/ABDULLAH-104/Leet-Code-Solutions-/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
+## Array
+|  |
+| ------- |
+| [2812-find-the-safest-path-in-a-grid](https://github.com/ABDULLAH-104/Leet-Code-Solutions-/tree/master/2812-find-the-safest-path-in-a-grid) |
+## Binary Search
+|  |
+| ------- |
+| [2812-find-the-safest-path-in-a-grid](https://github.com/ABDULLAH-104/Leet-Code-Solutions-/tree/master/2812-find-the-safest-path-in-a-grid) |
+## Breadth-First Search
+|  |
+| ------- |
+| [2812-find-the-safest-path-in-a-grid](https://github.com/ABDULLAH-104/Leet-Code-Solutions-/tree/master/2812-find-the-safest-path-in-a-grid) |
+## Union-Find
+|  |
+| ------- |
+| [2812-find-the-safest-path-in-a-grid](https://github.com/ABDULLAH-104/Leet-Code-Solutions-/tree/master/2812-find-the-safest-path-in-a-grid) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [2812-find-the-safest-path-in-a-grid](https://github.com/ABDULLAH-104/Leet-Code-Solutions-/tree/master/2812-find-the-safest-path-in-a-grid) |
+## Matrix
+|  |
+| ------- |
+| [2812-find-the-safest-path-in-a-grid](https://github.com/ABDULLAH-104/Leet-Code-Solutions-/tree/master/2812-find-the-safest-path-in-a-grid) |
 <!---LeetCode Topics End-->
