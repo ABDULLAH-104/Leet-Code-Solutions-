@@ -58,4 +58,5 @@
 |  |
 | ------- |
 | [0178-rank-scores](https://github.com/ABDULLAH-104/Leet-Code-Solutions-/tree/master/0178-rank-scores) |
+| [0180-consecutive-numbers](https://github.com/ABDULLAH-104/Leet-Code-Solutions-/tree/master/0180-consecutive-numbers) |
 <!---LeetCode Topics End-->
