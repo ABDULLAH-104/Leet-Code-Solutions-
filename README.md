@@ -54,4 +54,8 @@
 |  |
 | ------- |
 | [3620-network-recovery-pathways](https://github.com/ABDULLAH-104/Leet-Code-Solutions-/tree/master/3620-network-recovery-pathways) |
+## Database
+|  |
+| ------- |
+| [0178-rank-scores](https://github.com/ABDULLAH-104/Leet-Code-Solutions-/tree/master/0178-rank-scores) |
 <!---LeetCode Topics End-->
