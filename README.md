@@ -61,4 +61,5 @@
 | [0180-consecutive-numbers](https://github.com/ABDULLAH-104/Leet-Code-Solutions-/tree/master/0180-consecutive-numbers) |
 | [0181-employees-earning-more-than-their-managers](https://github.com/ABDULLAH-104/Leet-Code-Solutions-/tree/master/0181-employees-earning-more-than-their-managers) |
 | [0182-duplicate-emails](https://github.com/ABDULLAH-104/Leet-Code-Solutions-/tree/master/0182-duplicate-emails) |
+| [0185-department-top-three-salaries](https://github.com/ABDULLAH-104/Leet-Code-Solutions-/tree/master/0185-department-top-three-salaries) |
 <!---LeetCode Topics End-->
