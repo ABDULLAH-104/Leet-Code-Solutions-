@@ -77,4 +77,5 @@
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/ABDULLAH-104/Leet-Code-Solutions-/tree/master/0005-longest-palindromic-substring) |
+| [0006-zigzag-conversion](https://github.com/ABDULLAH-104/Leet-Code-Solutions-/tree/master/0006-zigzag-conversion) |
 <!---LeetCode Topics End-->
