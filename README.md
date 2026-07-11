@@ -51,6 +51,7 @@
 ## Dynamic Programming
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/ABDULLAH-104/Leet-Code-Solutions-/tree/master/0005-longest-palindromic-substring) |
 | [3620-network-recovery-pathways](https://github.com/ABDULLAH-104/Leet-Code-Solutions-/tree/master/3620-network-recovery-pathways) |
 ## Topological Sort
 |  |
@@ -68,4 +69,12 @@
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/ABDULLAH-104/Leet-Code-Solutions-/tree/master/0004-median-of-two-sorted-arrays) |
+## Two Pointers
+|  |
+| ------- |
+| [0005-longest-palindromic-substring](https://github.com/ABDULLAH-104/Leet-Code-Solutions-/tree/master/0005-longest-palindromic-substring) |
+## String
+|  |
+| ------- |
+| [0005-longest-palindromic-substring](https://github.com/ABDULLAH-104/Leet-Code-Solutions-/tree/master/0005-longest-palindromic-substring) |
 <!---LeetCode Topics End-->
