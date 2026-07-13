@@ -31,6 +31,7 @@
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0023-merge-k-sorted-lists](https://github.com/ABDULLAH-104/Leet-Code-Solutions-/tree/master/0023-merge-k-sorted-lists) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/ABDULLAH-104/Leet-Code-Solutions-/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/ABDULLAH-104/Leet-Code-Solutions-/tree/master/3286-find-a-safe-walk-through-a-grid) |
 | [3620-network-recovery-pathways](https://github.com/ABDULLAH-104/Leet-Code-Solutions-/tree/master/3620-network-recovery-pathways) |
@@ -71,6 +72,7 @@
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/ABDULLAH-104/Leet-Code-Solutions-/tree/master/0004-median-of-two-sorted-arrays) |
+| [0023-merge-k-sorted-lists](https://github.com/ABDULLAH-104/Leet-Code-Solutions-/tree/master/0023-merge-k-sorted-lists) |
 ## Two Pointers
 |  |
 | ------- |
@@ -85,4 +87,12 @@
 |  |
 | ------- |
 | [0010-regular-expression-matching](https://github.com/ABDULLAH-104/Leet-Code-Solutions-/tree/master/0010-regular-expression-matching) |
+## Linked List
+|  |
+| ------- |
+| [0023-merge-k-sorted-lists](https://github.com/ABDULLAH-104/Leet-Code-Solutions-/tree/master/0023-merge-k-sorted-lists) |
+## Merge Sort
+|  |
+| ------- |
+| [0023-merge-k-sorted-lists](https://github.com/ABDULLAH-104/Leet-Code-Solutions-/tree/master/0023-merge-k-sorted-lists) |
 <!---LeetCode Topics End-->
