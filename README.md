@@ -53,6 +53,7 @@
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/ABDULLAH-104/Leet-Code-Solutions-/tree/master/0005-longest-palindromic-substring) |
+| [0010-regular-expression-matching](https://github.com/ABDULLAH-104/Leet-Code-Solutions-/tree/master/0010-regular-expression-matching) |
 | [3620-network-recovery-pathways](https://github.com/ABDULLAH-104/Leet-Code-Solutions-/tree/master/3620-network-recovery-pathways) |
 ## Topological Sort
 |  |
@@ -79,4 +80,9 @@
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/ABDULLAH-104/Leet-Code-Solutions-/tree/master/0005-longest-palindromic-substring) |
 | [0006-zigzag-conversion](https://github.com/ABDULLAH-104/Leet-Code-Solutions-/tree/master/0006-zigzag-conversion) |
+| [0010-regular-expression-matching](https://github.com/ABDULLAH-104/Leet-Code-Solutions-/tree/master/0010-regular-expression-matching) |
+## Recursion
+|  |
+| ------- |
+| [0010-regular-expression-matching](https://github.com/ABDULLAH-104/Leet-Code-Solutions-/tree/master/0010-regular-expression-matching) |
 <!---LeetCode Topics End-->
