@@ -16,6 +16,7 @@
 | [0011-container-with-most-water](https://github.com/ABDULLAH-104/Leet-Code-Solutions-/tree/master/0011-container-with-most-water) |
 | [0014-longest-common-prefix](https://github.com/ABDULLAH-104/Leet-Code-Solutions-/tree/master/0014-longest-common-prefix) |
 | [0015-3sum](https://github.com/ABDULLAH-104/Leet-Code-Solutions-/tree/master/0015-3sum) |
+| [0016-3sum-closest](https://github.com/ABDULLAH-104/Leet-Code-Solutions-/tree/master/0016-3sum-closest) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/ABDULLAH-104/Leet-Code-Solutions-/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/ABDULLAH-104/Leet-Code-Solutions-/tree/master/3286-find-a-safe-walk-through-a-grid) |
 | [3620-network-recovery-pathways](https://github.com/ABDULLAH-104/Leet-Code-Solutions-/tree/master/3620-network-recovery-pathways) |
@@ -85,6 +86,7 @@
 | [0005-longest-palindromic-substring](https://github.com/ABDULLAH-104/Leet-Code-Solutions-/tree/master/0005-longest-palindromic-substring) |
 | [0011-container-with-most-water](https://github.com/ABDULLAH-104/Leet-Code-Solutions-/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/ABDULLAH-104/Leet-Code-Solutions-/tree/master/0015-3sum) |
+| [0016-3sum-closest](https://github.com/ABDULLAH-104/Leet-Code-Solutions-/tree/master/0016-3sum-closest) |
 ## String
 |  |
 | ------- |
@@ -123,4 +125,5 @@
 |  |
 | ------- |
 | [0015-3sum](https://github.com/ABDULLAH-104/Leet-Code-Solutions-/tree/master/0015-3sum) |
+| [0016-3sum-closest](https://github.com/ABDULLAH-104/Leet-Code-Solutions-/tree/master/0016-3sum-closest) |
 <!---LeetCode Topics End-->
