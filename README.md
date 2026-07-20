@@ -7,6 +7,7 @@
 | [0007-reverse-integer](https://github.com/ABDULLAH-104/Leet-Code-Solutions-/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/ABDULLAH-104/Leet-Code-Solutions-/tree/master/0009-palindrome-number) |
 | [0012-integer-to-roman](https://github.com/ABDULLAH-104/Leet-Code-Solutions-/tree/master/0012-integer-to-roman) |
+| [0013-roman-to-integer](https://github.com/ABDULLAH-104/Leet-Code-Solutions-/tree/master/0013-roman-to-integer) |
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/ABDULLAH-104/Leet-Code-Solutions-/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
 ## Array
 |  |
@@ -88,6 +89,7 @@
 | [0006-zigzag-conversion](https://github.com/ABDULLAH-104/Leet-Code-Solutions-/tree/master/0006-zigzag-conversion) |
 | [0010-regular-expression-matching](https://github.com/ABDULLAH-104/Leet-Code-Solutions-/tree/master/0010-regular-expression-matching) |
 | [0012-integer-to-roman](https://github.com/ABDULLAH-104/Leet-Code-Solutions-/tree/master/0012-integer-to-roman) |
+| [0013-roman-to-integer](https://github.com/ABDULLAH-104/Leet-Code-Solutions-/tree/master/0013-roman-to-integer) |
 ## Recursion
 |  |
 | ------- |
@@ -108,4 +110,5 @@
 |  |
 | ------- |
 | [0012-integer-to-roman](https://github.com/ABDULLAH-104/Leet-Code-Solutions-/tree/master/0012-integer-to-roman) |
+| [0013-roman-to-integer](https://github.com/ABDULLAH-104/Leet-Code-Solutions-/tree/master/0013-roman-to-integer) |
 <!---LeetCode Topics End-->
