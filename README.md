@@ -89,6 +89,7 @@
 | [0015-3sum](https://github.com/ABDULLAH-104/Leet-Code-Solutions-/tree/master/0015-3sum) |
 | [0016-3sum-closest](https://github.com/ABDULLAH-104/Leet-Code-Solutions-/tree/master/0016-3sum-closest) |
 | [0018-4sum](https://github.com/ABDULLAH-104/Leet-Code-Solutions-/tree/master/0018-4sum) |
+| [0019-remove-nth-node-from-end-of-list](https://github.com/ABDULLAH-104/Leet-Code-Solutions-/tree/master/0019-remove-nth-node-from-end-of-list) |
 ## String
 |  |
 | ------- |
@@ -106,6 +107,7 @@
 ## Linked List
 |  |
 | ------- |
+| [0019-remove-nth-node-from-end-of-list](https://github.com/ABDULLAH-104/Leet-Code-Solutions-/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0023-merge-k-sorted-lists](https://github.com/ABDULLAH-104/Leet-Code-Solutions-/tree/master/0023-merge-k-sorted-lists) |
 ## Merge Sort
 |  |
