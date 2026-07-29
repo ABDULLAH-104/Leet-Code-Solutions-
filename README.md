@@ -63,6 +63,7 @@
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/ABDULLAH-104/Leet-Code-Solutions-/tree/master/0005-longest-palindromic-substring) |
 | [0010-regular-expression-matching](https://github.com/ABDULLAH-104/Leet-Code-Solutions-/tree/master/0010-regular-expression-matching) |
+| [0022-generate-parentheses](https://github.com/ABDULLAH-104/Leet-Code-Solutions-/tree/master/0022-generate-parentheses) |
 | [3620-network-recovery-pathways](https://github.com/ABDULLAH-104/Leet-Code-Solutions-/tree/master/3620-network-recovery-pathways) |
 ## Topological Sort
 |  |
@@ -101,6 +102,7 @@
 | [0014-longest-common-prefix](https://github.com/ABDULLAH-104/Leet-Code-Solutions-/tree/master/0014-longest-common-prefix) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/ABDULLAH-104/Leet-Code-Solutions-/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0020-valid-parentheses](https://github.com/ABDULLAH-104/Leet-Code-Solutions-/tree/master/0020-valid-parentheses) |
+| [0022-generate-parentheses](https://github.com/ABDULLAH-104/Leet-Code-Solutions-/tree/master/0022-generate-parentheses) |
 ## Recursion
 |  |
 | ------- |
@@ -140,6 +142,7 @@
 |  |
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/ABDULLAH-104/Leet-Code-Solutions-/tree/master/0017-letter-combinations-of-a-phone-number) |
+| [0022-generate-parentheses](https://github.com/ABDULLAH-104/Leet-Code-Solutions-/tree/master/0022-generate-parentheses) |
 ## Stack
 |  |
 | ------- |
