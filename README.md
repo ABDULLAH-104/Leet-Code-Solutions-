@@ -96,6 +96,7 @@
 ## String
 |  |
 | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/ABDULLAH-104/Leet-Code-Solutions-/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0005-longest-palindromic-substring](https://github.com/ABDULLAH-104/Leet-Code-Solutions-/tree/master/0005-longest-palindromic-substring) |
 | [0006-zigzag-conversion](https://github.com/ABDULLAH-104/Leet-Code-Solutions-/tree/master/0006-zigzag-conversion) |
 | [0010-regular-expression-matching](https://github.com/ABDULLAH-104/Leet-Code-Solutions-/tree/master/0010-regular-expression-matching) |
@@ -134,6 +135,7 @@
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/ABDULLAH-104/Leet-Code-Solutions-/tree/master/0001-two-sum) |
+| [0003-longest-substring-without-repeating-characters](https://github.com/ABDULLAH-104/Leet-Code-Solutions-/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0012-integer-to-roman](https://github.com/ABDULLAH-104/Leet-Code-Solutions-/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/ABDULLAH-104/Leet-Code-Solutions-/tree/master/0013-roman-to-integer) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/ABDULLAH-104/Leet-Code-Solutions-/tree/master/0017-letter-combinations-of-a-phone-number) |
@@ -156,4 +158,8 @@
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/ABDULLAH-104/Leet-Code-Solutions-/tree/master/0020-valid-parentheses) |
+## Sliding Window
+|  |
+| ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/ABDULLAH-104/Leet-Code-Solutions-/tree/master/0003-longest-substring-without-repeating-characters) |
 <!---LeetCode Topics End-->
